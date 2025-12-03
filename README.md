@@ -1,12 +1,41 @@
+<style>
+  body {
+    color: black !important;
+  }
+  
+  /* Force all text to black */
+  * {
+    color: black !important;
+  }
+  
+  /* Specific elements that might have other colors */
+  h1, h2, h3, h4, h5, h6 {
+    color: black !important;
+  }
+  
+  p, span, a, li, td, th {
+    color: black !important;
+  }
+  
+  /* Links color */
+  a {
+    color: #0000EE !important;
+  }
+  
+  a:hover {
+    color: #551A8B !important;
+  }
+</style>
+
 <div align="center">
 
-<!-- Typing SVG - FIXED URL -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Pradeep;Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;B.Tech+CSE+Student;Open+to+Collaborate!" alt="Typing SVG" />
+<!-- Typing SVG with black text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Pradeep;Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;B.Tech+CSE+Student;Open+to+Collaborate!" alt="Typing SVG" />
 
-<!-- Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header" />
+<!-- Waving Header with black text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlignY=35&fontColor=000000&animation=fadeIn" alt="Header" />
 
-<!-- Social Badges -->
+<!-- Social Badges - Already have white text on colored backgrounds -->
 <div>
   <a href="https://www.linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,12 +56,23 @@
 
 <br>
 
-</div>
+<!-- GitHub Stats with black theme -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=manjunadh248&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="GitHub Stats" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunadh248&theme=default&hide_border=true&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub Streak" width="400" />
+    </td>
+  </tr>
+</table>
 
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjunadh248&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10"/>
-</div>
+<!-- Top Languages with black theme -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunadh248&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" alt="Top Languages" width="400" />
+
+<!-- Trophies with black theme -->
+<img src="https://github-profile-trophy.vercel.app/?username=manjunadh248&theme=flat&no-frame=true&row=2&column=4&title=Joined,Stars,Followers,Repositories" alt="GitHub Trophies" />
 
 </div>
 
