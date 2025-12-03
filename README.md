@@ -27,24 +27,6 @@
 
 <br>
 
-<!-- GitHub Stats - FIXED URLs -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manjunadh248&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunadh248&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
-    </td>
-  </tr>
-</table>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunadh248&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=manjunadh248&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-
 </div>
 
 <!-- GitHub Trophies -->
