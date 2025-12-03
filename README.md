@@ -1,1 +1,269 @@
-<div align="center"> <!-- Typing SVG - FIXED URL --> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Pradeep;Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;B.Tech+CSE+Student;Open+to+Collaborate!" alt="Typing SVG" /> <!-- Waving Header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header" /> <!-- Social Badges --> <div> <a href="https://www.linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:simanju2877@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://github.com/manjunadh248" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://leetcode.com/manju_1234/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> </a> <a href="https://www.hackerrank.com/profile/simanju2877" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/> </a> </div> <br> </div> <!-- GitHub Trophies --> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=manjunadh248&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10"/> </div> </div> <!-- About Me --> <div align="center" style="background: rgba(255,255,255,0.05); padding: 20px; border-radius: 20px; margin: 20px 0; border: 1px solid rgba(88,166,255,0.3);"> <h2>✨ About Me</h2> <p> I'm a passionate <strong>Computer Science Engineering</strong> student at LPU, specializing in <strong>Full-Stack Development</strong> and <strong>Data Structures & Algorithms</strong>. With a strong foundation in both frontend and backend technologies, I enjoy building innovative solutions to real-world problems. </p> <div align="center"> <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-blue?style=flat-square" alt="Focus"/> <img src="https://img.shields.io/badge/📚_Learning-React%20|%20NodeJS%20|%20DSA-green?style=flat-square" alt="Learning"/> <img src="https://img.shields.io/badge/🏆_Problems_Solved-200+-red?style=flat-square" alt="Problems Solved"/> <img src="https://img.shields.io/badge/📍_Location-India-orange?style=flat-square" alt="Location"/> </div> </div> <!-- Tech Stack --> <h2 align="center">🚀 Tech Stack</h2> <div align="center"> ### **Programming Languages** <div> <img src="https://skillicons.dev/icons?i=cpp,java,python,js" /> </div> ### **Frontend Development** <div> <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" /> </div> ### **Backend & Databases** <div> <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,express" /> </div> ### **DevOps & Tools** <div> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,bash" /> </div> ### **Others** <div> <img src="https://skillicons.dev/icons?i=vscode,postman,figma" /> </div> </div> <!-- Coding Profiles --> <h2 align="center">🏆 Coding Profiles</h2> <div align="center"> <!-- LeetCode Card --> <a href="https://leetcode.com/manju_1234/" target="_blank"> <img src="https://leetcard.jacoblin.cool/manju_1234?theme=dark&font=Noto%20Sans&ext=activity&border_radius=20" alt="LeetCode Stats" style="border-radius: 20px; margin: 10px;"/> </a> <!-- HackerRank Badges --> <div style="display: flex; justify-content: center; gap: 15px; margin: 20px; flex-wrap: wrap;"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Problem_Solving-5★-brightgreen?style=for-the-badge" alt="Problem Solving"/> </div> </div> <!-- Projects --> <h2 align="center">💼 Featured Projects</h2> <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;"> <!-- Project 1 --> <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; width: 300px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"> <h3 style="color: white; margin: 0 0 10px 0;">🩸 Blood Camp Management</h3> <p style="color: rgba(255,255,255,0.9); margin: 0 0 15px 0;">Web platform for managing blood donation drives</p> <div style="margin: 10px 0;"> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">HTML</span> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">CSS</span> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">JavaScript</span> </div> <a href="https://github.com/manjunadh248/Blood-Camp-Management" style="display: inline-block; background: white; color: #667eea; padding: 8px 15px; border-radius: 10px; text-decoration: none; margin-top: 10px; font-weight: bold;">View Project →</a> </div> <!-- Project 2 --> <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; width: 300px; text-align: center; transition: transform 0.3s; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"> <h3 style="color: white; margin: 0 0 10px 0;">🧠 Mental Health Simulation</h3> <p style="color: rgba(255,255,255,0.9); margin: 0 0 15px 0;">Interactive mental-health awareness platform</p> <div style="margin: 10px 0;"> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">HTML</span> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">CSS</span> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">JavaScript</span> <span style="background: rgba(255,255,255,0.2); padding: 5px 10px; border-radius: 10px; margin: 2px; color: white;">Chart.js</span> </div> <a href="https://github.com/manjunadh248/Mental-Health-Simulation" style="display: inline-block; background: white; color: #f5576c; padding: 8px 15px; border-radius: 10px; text-decoration: none; margin-top: 10px; font-weight: bold;">View Project →</a> </div> </div> <!-- Education --> <h2 align="center">🎓 Education</h2> <div align="center" style="max-width: 600px; margin: 0 auto;"> <div style="background: rgba(88,166,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #58a6ff;"> <h3 style="margin: 0; color: #58a6ff;">Lovely Professional University</h3> <p style="margin: 5px 0; color: #c9d1d9;">B.Tech - Computer Science & Engineering</p> <p style="margin: 0; color: #8b949e;">Aug 2023 - Present | CGPA: 7.57</p> </div> <div style="background: rgba(88,166,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #58a6ff;"> <h3 style="margin: 0; color: #58a6ff;">Narayana College</h3> <p style="margin: 5px 0; color: #c9d1d9;">Intermediate (12th Grade)</p> <p style="margin: 0; color: #8b949e;">Mar 2022 - Apr 2023 | Percentage: 80.5%</p> </div> <div style="background: rgba(88,166,255,0.1); padding: 15px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #58a6ff;"> <h3 style="margin: 0; color: #58a6ff;">Narayana Public School</h3> <p style="margin: 5px 0; color: #c9d1d9;">Matriculation (10th Grade)</p> <p style="margin: 0; color: #8b949e;">Mar 2020 - Apr 2021 | Percentage: 96.2%</p> </div> </div> <!-- Activity Graph --> <h2 align="center">📈 GitHub Activity</h2> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunadh248&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Activity Graph" style="border-radius: 15px;"/> </div> <!-- Snake Animation --> <h2 align="center">🐍 Contribution Snake</h2> <div align="center"> <img src="https://raw.githubusercontent.com/manjunadh248/manjunadh248/output/github-contribution-grid-snake.svg" alt="Snake Game" style="border-radius: 15px;"/> </div> <!-- Contact --> <div align="center" style="margin-top: 40px; padding: 20px; background: rgba(88,166,255,0.05); border-radius: 15px;"> <h2>📬 Let's Connect!</h2> <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;"> <a href="mailto:simanju2877@gmail.com" style="text-decoration: none;"> <img src="https://img.shields.io/badge/📧_Email-simanju2877@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="tel:+918074153775" style="text-decoration: none;"> <img src="https://img.shields.io/badge/📱_Phone-+91_8074153775-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/> </a> <a href="https://www.linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288/" style="text-decoration: none;"> <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </div> <!-- Visitor Counter --> <div align="center"> <img src="https://komarev.com/ghpvc/?username=manjunadh248&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/> </div> <p style="margin-top: 20px; color: #8b949e;">💡 <em>Always open to exciting collaborations and opportunities!</em></p> </div> <!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+<div align="center">
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Pradeep%20Simanjunadha&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Problem%20Solver&descSize=20&descAlignY=55" alt="Header"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=600&height=100&lines=👋+Hey+there!+I'm+Pradeep;💻+Full-Stack+Developer;🚀+DSA+Enthusiast+%7C+200%2B+Problems;🎯+B.Tech+CSE+%40+LPU;🌟+Open+Source+Contributor;⚡+Building+Innovative+Solutions" alt="Typing SVG" />
+</a>
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-00d4ff?style=for-the-badge&labelColor=0a0e27&color=00d4ff" alt="Focus"/>
+  <img src="https://img.shields.io/badge/📚_Learning-React_|_Node_|_DSA-00ff87?style=for-the-badge&labelColor=0a0e27&color=00ff87" alt="Learning"/>
+  <img src="https://img.shields.io/badge/🏆_Problems-200+-ff0080?style=for-the-badge&labelColor=0a0e27&color=ff0080" alt="Problems"/>
+  <img src="https://img.shields.io/badge/📍_Location-India-ff6b00?style=for-the-badge&labelColor=0a0e27&color=ff6b00" alt="Location"/>
+</p>
+<!-- Social Links with Custom Styling -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:simanju2877@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/manjunadh248">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/manju_1234/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/simanju2877">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64" alt="HackerRank"/>
+  </a>
+</p>
+</div>
+
+🌟 About Me
+typescriptconst pradeep = {
+    pronouns: "He/Him",
+    location: "India 🇮🇳",
+    education: "B.Tech CSE @ LPU",
+    currentFocus: ["Full-Stack Development", "DSA Mastery", "Cloud Computing"],
+    communities: ["Open Source", "Competitive Programming"],
+    funFact: "I debug with console.log() and I'm proud of it! 😎",
+    motto: "Code. Learn. Repeat. 🔁"
+};
+<div align="center">
+💼 What I Do
+🎨 Frontend Magic • ⚙️ Backend Wizardry • 🗄️ Database Design • 🧠 Problem Solving
+I'm passionate about creating elegant solutions to complex problems. With a strong foundation in both frontend and backend technologies, I transform ideas into reality through clean, efficient code.
+</div>
+
+🛠️ Tech Arsenal
+<div align="center">
+💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript&theme=dark&perline=10" />
+🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,redux,sass&theme=dark&perline=10" />
+⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,prisma,graphql&theme=dark&perline=10" />
+☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,bash,nginx&theme=dark&perline=10" />
+🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,netlify,firebase&theme=dark&perline=10" />
+</div>
+
+📊 GitHub Statistics
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manjunadh248&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunadh248&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunadh248&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=manjunadh248&custom_title=Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&theme=react-dark" alt="Contribution Graph"/>
+</div>
+
+🏆 Achievements & Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manjunadh248&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+💻 Competitive Programming
+<div align="center">
+🎯 LeetCode Stats
+<a href="https://leetcode.com/manju_1234/">
+  <img src="https://leetcard.jacoblin.cool/manju_1234?theme=dark&font=Ubuntu&ext=contest&border_radius=20" alt="LeetCode Stats"/>
+</a>
+📈 Coding Profile Highlights
+PlatformBadgeStatsLeetCodeShow Image200+ Problems SolvedHackerRankShow Image5⭐ Problem SolverCodeChefShow ImageActive ParticipantCodeforcesShow ImageRegular Contests
+</div>
+
+🚀 Featured Projects
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+🩸 Blood Camp Management
+Web Platform for Blood Donation Drives
+A comprehensive solution for managing blood donation camps with donor registration, inventory tracking, and campaign management.
+Tech Stack:
+
+Show Image
+Show Image
+Show Image
+
+Show Image
+</td>
+<td width="50%">
+🧠 Mental Health Simulation
+Interactive Mental Health Awareness Platform
+An engaging platform that simulates mental health scenarios to build awareness and empathy through interactive experiences.
+Tech Stack:
+
+Show Image
+Show Image
+Show Image
+Show Image
+
+Show Image
+</td>
+</tr>
+</table>
+<details>
+<summary><b>🔍 More Projects</b></summary>
+<br>
+
+🎮 Game Development Projects - Interactive web-based games
+📱 Responsive Web Apps - Mobile-first design implementations
+🤖 Automation Scripts - Python-based automation tools
+📊 Data Visualization - D3.js and Chart.js projects
+
+</details>
+</div>
+
+🎓 Educational Journey
+<div align="center">
+```mermaid
+timeline
+    title My Academic Path
+    2020-2021 : Matriculation (10th)
+              : Narayana Public School
+              : 96.2% 🌟
+    2022-2023 : Intermediate (12th)
+              : Narayana College
+              : 80.5% 📚
+    2023-Present : B.Tech CSE
+                 : Lovely Professional University
+                 : CGPA 7.57 🎓
+```
+</div>
+<table align="center">
+<tr>
+<th>Institution</th>
+<th>Degree</th>
+<th>Duration</th>
+<th>Score</th>
+</tr>
+<tr>
+<td><b>Lovely Professional University</b></td>
+<td>B.Tech - Computer Science</td>
+<td>Aug 2023 - Present</td>
+<td><b>CGPA: 7.57</b></td>
+</tr>
+<tr>
+<td><b>Narayana College</b></td>
+<td>Intermediate (12th)</td>
+<td>Mar 2022 - Apr 2023</td>
+<td><b>80.5%</b></td>
+</tr>
+<tr>
+<td><b>Narayana Public School</b></td>
+<td>Matriculation (10th)</td>
+<td>Mar 2020 - Apr 2021</td>
+<td><b>96.2% ⭐</b></td>
+</tr>
+</table>
+
+📈 Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manjunadh248&custom_title=Pradeep's%20Contribution%20Graph&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+🐍 Watch My Contributions Get Eaten!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manjunadh248/manjunadh248/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manjunadh248/manjunadh248/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manjunadh248/manjunadh248/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+💡 Random Dev Quote
+<div align="center">
+Show Image
+</div>
+
+🎯 Current Goals for 2025
+<div align="center">
+
+ 🎯 Solve 500+ DSA problems across platforms
+ 🚀 Contribute to 10+ open source projects
+ 📚 Master System Design & Architecture
+ ☁️ Get AWS Solutions Architect certification
+ 🌟 Build and launch a SaaS product
+ 🤝 Mentor 50+ developers in their coding journey
+
+</div>
+
+🤝 Let's Connect & Collaborate
+<div align="center">
+💌 Get in Touch
+<table>
+<tr>
+<td align="center" width="33%">
+📧 Email
+simanju2877@gmail.com
+</td>
+<td align="center" width="33%">
+📱 Phone
++91 8074153775
+</td>
+<td align="center" width="33%">
+💼 LinkedIn
+Connect with me
+</td>
+</tr>
+</table>
+🌐 Find Me Online
+<p align="center">
+  <a href="https://github.com/manjunadh248">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+  <a href="https://linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+  </a>
+  <a href="https://leetcode.com/manju_1234">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
+  </a>
+  <a href="https://hackerrank.com/profile/simanju2877">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64"/>
+  </a>
+  <a href="mailto:simanju2877@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+</p>
+
+💭 A Little About My Journey
+
+"Started with 'Hello World', now debugging production servers at 3 AM. The journey from semicolons to microservices has been incredible. Every bug fixed is a lesson learned, every feature shipped is a victory celebrated. Here's to writing cleaner code and building better solutions! 🚀"
+
+
+📊 Profile Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjunadh248&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/manjunadh248?label=Followers&style=for-the-badge&color=58a6ff" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/manjunadh248?label=Total%20Stars&style=for-the-badge&color=58a6ff" alt="Total Stars"/>
+</p>
+
+<div align="center">
+⚡ Fun Facts About Me
+🎮 Love coding challenges as much as gaming
+☕ Coffee-powered developer (5 cups/day minimum!)
+🎵 Code better with lo-fi beats in the background
+📚 Always learning something new
+🌙 Night owl - best code written after midnight
+💪 Believe in consistency over intensity
+
+🎨 Interests Beyond Code
+🎸 Music • 📷 Photography • ✈️ Travel • 📖 Reading • 🏃 Fitness • ♟️ Chess
+
+💡 "Always open to exciting collaborations and opportunities!"
+✨ "Let's build something amazing together!"
+</div>
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" alt="Footer"/>
+</div>
