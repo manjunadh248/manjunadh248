@@ -1,41 +1,50 @@
 <div align="center">
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Pradeep;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;B.Tech+CSE+Student;Open+to+Collaborate!" alt="Typing SVG" />
+<!-- Typing SVG - FIXED URL -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+👋,+I'm+Pradeep;Full-Stack+Developer;DSA+Enthusiast;Problem+Solver;B.Tech+CSE+Student;Open+to+Collaborate!" alt="Typing SVG" />
 
 <!-- Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header" />
 
 <!-- Social Badges -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+<div>
+  <a href="https://www.linkedin.com/in/b-simanjunadha-venkata-pradeep-414201288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:simanju2877@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:simanju2877@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/manjunadh248">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/manjunadh248" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/manju_1234/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  <a href="https://leetcode.com/manju_1234/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/simanju2877">
-    <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+  <a href="https://www.hackerrank.com/profile/simanju2877" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </div>
 
-<br/>
+<br>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjunadh248&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manjunadh248&theme=radical&background=0d1117&border_radius=20&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-</div>
+<!-- GitHub Stats - FIXED URLs -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=manjunadh248&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjunadh248&theme=radical&hide_border=true" alt="GitHub Streak" width="400" />
+    </td>
+  </tr>
+</table>
 
 <!-- Top Languages -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunadh248&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjunadh248&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=manjunadh248&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+
 </div>
 
 <!-- GitHub Trophies -->
